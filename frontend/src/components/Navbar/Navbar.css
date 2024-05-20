@@ -1,0 +1,17 @@
+.container {
+  background-color: #f3f3f3;
+  padding: 1em;
+  display: flex;
+  justify-content: end;
+}
+
+.save-button {
+  background-color: #ffffff;
+  border: 1px solid #4b4f74;
+  border-radius: 5px;
+  padding: 0.5em 1em;
+  color: #4b4f74;
+  cursor: pointer;
+  user-select: none;
+  margin-right: 10em;
+}

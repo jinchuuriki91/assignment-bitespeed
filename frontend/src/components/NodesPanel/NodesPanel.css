@@ -1,0 +1,22 @@
+.np-container {
+  border: 1px solid #e8e8e8;
+  padding: 1em;
+  /*flex: 0.5em;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(10, 1fr);
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;*/
+}
+
+.text-button {
+  background-color: #ffffff;
+  border: 1px solid #4b4f74;
+  border-radius: 5px;
+  padding: 1em 5em;
+  color: #4b4f74;
+  cursor: pointer;
+  user-select: none;
+  margin-right: 10em;
+  text-align: center;
+}
